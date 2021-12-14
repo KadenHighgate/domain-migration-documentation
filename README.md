@@ -32,5 +32,13 @@ Reference: [Firebase custom GoDaddy Domain](https://www.pawangaria.com/post/map-
   
 At this point you should be able to access your newly hosted web application. You may have to set up a redirection in GoDaddy for the www.
   
+## Setup Hosting on Firebase
+  
+  Now that you have a project you can access that project in Firebase. Navigate to the firebase console in your browser for the next steps.
+  
+  **Steps**
+  1. Goto Hosting and selectget started
+  2.
+  
 
 
