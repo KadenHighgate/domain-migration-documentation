@@ -11,7 +11,7 @@ Reference: [Firebase custom GoDaddy Domain](https://www.pawangaria.com/post/map-
   - `npm install -g firebase-tools`
 - Initialize a project and Deploy it
   - Sign into Google
-  `firebase login`
+  `firebase login` || `firebase login --interactive`
   - Initialize your project
   `firebase init`
 - Deploy to Firebase
@@ -37,8 +37,9 @@ At this point you should be able to access your newly hosted web application. Yo
   Now that you have a project you can access that project in Firebase. Navigate to the firebase console in your browser for the next steps.
   
   **Steps**
-  1. Goto Hosting and selectget started
-  2.
+  1. Goto Hosting and select get started
+  2. Follow the guide which mainly are the prerequisites.
+  
   
 
 
